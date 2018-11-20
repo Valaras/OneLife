@@ -39,8 +39,7 @@ Now just launch the game with OneLife+.exe for Windows, OneLife_v###+.app on mac
 
 Steam Mod Installation Guide by [KrissJin](https://www.twitch.tv/krissjin):
 <p align="center">
-   <a href="https://youtu.be/H1u8lD0F0-I">
-      <img src="https://img.youtube.com/vi/H1u8lD0F0-I/0.jpg" title="Steam Mod Installation Guide by KrissJin" alt="Steam Mod Installation Guide by KrissJin" width="65%" />
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/H1u8lD0F0-I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </a>
 </p>
 
